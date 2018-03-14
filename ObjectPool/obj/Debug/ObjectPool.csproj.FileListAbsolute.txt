@@ -1,0 +1,6 @@
+c:\users\besttdk\documents\visual studio 2015\Projects\ObjectPool\ObjectPool\bin\Debug\ObjectPool.exe.config
+c:\users\besttdk\documents\visual studio 2015\Projects\ObjectPool\ObjectPool\bin\Debug\ObjectPool.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\ObjectPool\ObjectPool\bin\Debug\ObjectPool.pdb
+c:\users\besttdk\documents\visual studio 2015\Projects\ObjectPool\ObjectPool\obj\Debug\ObjectPool.csprojResolveAssemblyReference.cache
+c:\users\besttdk\documents\visual studio 2015\Projects\ObjectPool\ObjectPool\obj\Debug\ObjectPool.exe
+c:\users\besttdk\documents\visual studio 2015\Projects\ObjectPool\ObjectPool\obj\Debug\ObjectPool.pdb
